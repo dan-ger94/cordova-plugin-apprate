@@ -131,7 +131,6 @@ Note: `%@` patterns in `title` and `message` will be automatically replaced with
 AppRate.preferences.customLocale = {
   title: "Would you mind rating %@?",
   message: "It won’t take more than a minute and helps to promote our app. Thanks for your support!",
-  cancelButtonLabel: "No, Thanks",
   laterButtonLabel: "Remind Me Later",
   rateButtonLabel: "Rate It Now",
   yesButtonLabel: "Yes!",
@@ -159,7 +158,6 @@ AppRate.preferences = {
   customLocale: {
     title: "Would you mind rating %@?",
     message: "It won’t take more than a minute and helps to promote our app. Thanks for your support!",
-    cancelButtonLabel: "No, Thanks",
     laterButtonLabel: "Remind Me Later",
     rateButtonLabel: "Rate It Now",
     yesButtonLabel: "Yes!",
@@ -234,7 +232,6 @@ AppRate.preferences = {
   customLocale: {
     title: "Would you mind rating %@?",
     message: "It won’t take more than a minute and helps to promote our app. Thanks for your support!",
-    cancelButtonLabel: "No, Thanks",
     laterButtonLabel: "Remind Me Later",
     rateButtonLabel: "Rate It Now",
     yesButtonLabel: "Yes!",
